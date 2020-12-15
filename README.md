@@ -12,12 +12,13 @@
 <p>
   <em>
     I am a final Year undergraduate from <a href="https://jainuniversity.ac.in/"> <b>Jain University</b>, Bangalore</a>. <br>
-    A budding <b>Android App Developer.</b> <img src="https://github.com/DarkAbhi/DarkAbhi/blob/master/Assets/Developer.gif" width="30px"> <br> I'm currently interning with <a href="https://printola.in/"> <b>Printola</b></a>. <br>
-    I spend my time now on learning Flutter & Figma currently.
+    A budding <b>Android App Developer.</b> <img src="https://github.com/DarkAbhi/DarkAbhi/blob/master/Assets/Developer.gif" width="30px"> <br> I'm currently building something amazing, visit <a href="https://iku.earth/"> <b>Iku</b></a> to know more. <br>
+    Join our growing community <a href="https://play.google.com/store/apps/details?id=com.iku"><b>here<b></a>. <br>
+    I spend my time now on learning Flutter & Advancing in Kotlin.
   </em>  
 </p>
 
-<b>I am into Android development, Java development, UI design, Linux System Administration.</b>
+<b>I am into Android development, UI design, Linux System Administration.</b>
 
 ## Wanna talk?
 
