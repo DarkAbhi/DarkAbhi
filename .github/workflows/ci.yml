@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     
   schedule:
     - cron: "0 17 * * *" # Runs at 17:00 UTC every day.
@@ -15,10 +15,12 @@ jobs:
 
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: hoc081098
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
