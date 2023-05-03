@@ -2,8 +2,8 @@
 
 [![Github Badge](https://img.shields.io/github/followers/DarkAbhi?style=social)](https://github.com/DarkAbhi)
 [![Twitter Badge](https://img.shields.io/twitter/follow/im_abhishekan?label=%40im_abhishekan&style=social)](https://twitter.com/im_abhishekan)
-[![Gmail Badge](https://img.shields.io/badge/-contact@abhishekan.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@abhishekan.dev)](mailto:contact@abhishekan.dev)
-[![Github Badge](https://img.shields.io/badge/Telegram-Wanna%20talk%3F-blue)](https://t.me/imabhishekan)
+[![Gmail Badge](https://img.shields.io/badge/-me@abhishekan.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@abhishekan.dev)](mailto:me@abhishekan.dev)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Wanna%20talk%3F-blue)](https://t.me/imabhishekan)
 
 ![](https://source.unsplash.com/800x200/?dark/)
 
