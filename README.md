@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    I'm a <b>Full stack developer.</b> <img src="https://github.com/DarkAbhi/DarkAbhi/blob/main/Assets/Developer.gif" width="30px">based in Bengaluru, India 🌍<br> I'm currently building something amazing, visit <a href="https://iku.earth/"> <b>Iku</b></a> to know more.
+    I'm a <b>Full stack developer.</b> <img src="https://github.com/DarkAbhi/DarkAbhi/blob/main/Assets/Developer.gif" width="30px">based in Bengaluru, India 🌍<br> I'm currently building something amazing, visit <a href="https://terrum.in/"> <b>Terrum</b></a> to know more.
     </em>  
 </p>
 
@@ -24,11 +24,9 @@
 
 ## 👀 What I Am Working on atm
 
-- Leading the development at <a href="https://iku.earth/"> <b>Iku</b></a>
-- Building a new project for BigBasket ;)
-- Flutter cross platform apps
+- Building a volunteer tracking and community platform at <a href="https://terrum.in/"> <b>Terrum</b></a>
 - Enhancing in Django
-- Jetpack Compose for desktop
+- Jetpack Compose
 
 ### Tech I'll work with to build something super quick
 
